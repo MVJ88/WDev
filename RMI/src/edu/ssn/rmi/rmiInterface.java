@@ -19,6 +19,6 @@ public interface rmiInterface extends Remote {
     /////bbbbbb
     
     
-    //aadsfadsf
+    //aads
 
 }
