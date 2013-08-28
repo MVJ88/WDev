@@ -17,5 +17,8 @@ public interface rmiInterface extends Remote {
     public boolean validateLogin(String userName, String password) throws RemoteException;
     public boolean validateAdmin(String uName, String password) throws RemoteException;
     /////bbbbbb
+    
+    
+    //aadsfadsf
 
 }
