@@ -7,7 +7,7 @@ package edu.ssn.rmi;
 import java.rmi.Remote;
 import java.rmi.RemoteException;
 
-/**
+/**sdfsdfdsfds
  *
  * @author Arun
  */
@@ -19,6 +19,6 @@ public interface rmiInterface extends Remote {
     /////bbbbbb
     
     
-    //aads
+    //aadsfadsfgsddsfdsf
 
 }
